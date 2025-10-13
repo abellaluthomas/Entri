@@ -12,7 +12,6 @@ int main() {
 
     // Calculating sum
     sum = num1 + num2;
-
     // Displaying result
     printf("The sum of %d and %d is: %d\n", num1, num2, sum);
 
