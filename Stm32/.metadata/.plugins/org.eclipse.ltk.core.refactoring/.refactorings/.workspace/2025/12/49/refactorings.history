@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;blink&apos;" deleteContents="false" description="Delete resource &apos;blink&apos;" element1="/blink" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1764660380843"/>&#x0A;<refactoring comment="Rename resource &apos;blink&apos; to &apos;Stmstart&apos;" description="Rename resource &apos;blink&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/blink" name="Stmstart" stamp="1764705284479" updateReferences="true"/>
-</session>
